@@ -1,7 +1,11 @@
 .navDiv {
-    color: black
+    background-color: #191828
 }
 
 .navTitle {
     color: cyan
+}
+
+.wholePage {
+    background-color: rgb(44, 44, 44);
 }
